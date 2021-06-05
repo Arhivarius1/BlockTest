@@ -10,6 +10,6 @@ public class Main {
         {
             System.out.println("Значение х "+x);
             System.out.println("Значение у "+y);
-            y=y-2;} 
+            y=y-2;}
     }
 }
